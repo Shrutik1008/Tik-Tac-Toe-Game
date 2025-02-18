@@ -36,7 +36,7 @@ You can check out the live demo of the Tic-Tac-Toe game [here](https://shrutik10
 
 ## Screenshots
 
-![Tic-Tac-Toe Game](Screenshot 2025-02-18 193601.png)
+![Game Screenshot](images/Screenshot%202025-02-18%20193601.png)
 
 ## How It Works
 
