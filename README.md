@@ -20,7 +20,7 @@ You can check out the live demo of the Tic-Tac-Toe game [here](https://shrutik10
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/Shrutik1008/tic-tac-toe.git
     ```
 2. Navigate to the project directory:
     ```bash
